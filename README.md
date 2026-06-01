@@ -1,5 +1,31 @@
-# Vue 3 + Vite
+BeautyFinder
+Платформа для поиска мастеров (ногти, ресницы, брови, волосы, макияж, пирсинг) и онлайн-записи.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Скачивание и запуск
+1. Скачайте ZIP-архив
+    Нажмите кнопку Code, затем Download ZIP.
+    Распакуйте архив в любую папку на компьютере.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+2. Установите Node.js (если ещё не установлен)  
+    Скачайте LTS версию с сайта https://nodejs.org/ и установите.
+
+3. Откройте проект в VS Code
+    Запустите VS Code, выберите 'Файл' - 'Открыть папку…' и укажите папку 'beauty-app'.
+
+4. Откройте терминал в VS Code 
+    Выберите 'Терминал' - 'Создать терминал'.
+
+5. Установите зависимости
+   В терминале введите команду 'npm install'
+
+6. Запустите проект
+    Поосле установки введите в терминале команду 'npm run dev'
+
+7. Откройте в браузере
+В терминале появится адрес. Нажмите на него (Ctrl+ЛКМ) или скопируйте в адресную строку браузера.
+
+Демо
+
+
+Макет в Figma
+https://www.figma.com/design/3hT5GEccdLjtwtqQLRowBb/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0?node-id=0-1&t=mruQqyZa8ez3jtrk-1
