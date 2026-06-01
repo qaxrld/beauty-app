@@ -25,7 +25,7 @@ BeautyFinder
 В терминале появится адрес. Нажмите на него (Ctrl+ЛКМ) или скопируйте в адресную строку браузера.
 
 Демо:
-
+beautyfinder.netlify.app
 
 Макет в Figma:
 https://www.figma.com/design/3hT5GEccdLjtwtqQLRowBb/%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0?node-id=0-1&t=mruQqyZa8ez3jtrk-1
